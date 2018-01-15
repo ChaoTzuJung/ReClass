@@ -1,0 +1,29 @@
+{
+  "name": "rc",
+  "version": "2.0.0",
+  "description": "",
+  "main": "FacebookLogin.js",
+  "dependencies": {
+    "babel-jest": "^19.0.0",
+    "babel-preset-react-native": "^1.9.1",
+    "done-bar": "^1.0.2",
+    "jest": "^19.0.2",
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.43.3",
+    "react-native-animatable": "^1.1.1",
+    "react-native-fade-in-view": "^1.0.4",
+    "react-native-fbsdk": "^0.5.0",
+    "react-native-keyboard-spacer": "^0.3.1",
+    "react-native-linear-gradient": "^2.0.0",
+    "react-native-search-bar": "^3.0.0",
+    "react-native-elements": "^0.10.3",
+    "react-native-vector-icons": "^4.0.1",
+    "react-test-renderer": "^16.0.0-alpha.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
